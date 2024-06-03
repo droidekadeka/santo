@@ -14,6 +14,7 @@
 		55D665B62C0DC236004D9487 /* SantoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D665B52C0DC236004D9487 /* SantoTests.swift */; };
 		55D665C02C0DC236004D9487 /* SantoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D665BF2C0DC236004D9487 /* SantoUITests.swift */; };
 		55D665C22C0DC236004D9487 /* SantoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D665C12C0DC236004D9487 /* SantoUITestsLaunchTests.swift */; };
+		55D665D12C0DD642004D9487 /* mytime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D665D02C0DD642004D9487 /* mytime.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		55D665BB2C0DC236004D9487 /* SantoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SantoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55D665BF2C0DC236004D9487 /* SantoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantoUITests.swift; sourceTree = "<group>"; };
 		55D665C12C0DC236004D9487 /* SantoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		55D665D02C0DD642004D9487 /* mytime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mytime.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				55D665A42C0DC234004D9487 /* SantoApp.swift */,
 				55D665A62C0DC234004D9487 /* ContentView.swift */,
+				55D665D02C0DD642004D9487 /* mytime.swift */,
 				55D665A82C0DC235004D9487 /* Assets.xcassets */,
 				55D665AA2C0DC235004D9487 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55D665D12C0DD642004D9487 /* mytime.swift in Sources */,
 				55D665A72C0DC234004D9487 /* ContentView.swift in Sources */,
 				55D665A52C0DC234004D9487 /* SantoApp.swift in Sources */,
 			);
